@@ -1,0 +1,1089 @@
+﻿Log file open, 08/06/21 15:29:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FPSLockdownn
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.237716
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Discomelon -epicuserid=8aa161d9bb58438b938b79ef7d54200f -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.06-05.29.22:177][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.06-05.29.22:178][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:178][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:203][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:203][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.06-05.29.22:204][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.06-05.29.22:205][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.06-05.29.22:206][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.06-05.29.22:206][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.06-05.29.22:206][  0]LogHAL: Display: Platform has ~ 16 GB [16956522496 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.06-05.29.22:206][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.06-05.29.22:206][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.06-05.29.22:206][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.06-05.29.22:207][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.06-05.29.22:208][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Engine.ini]
+[2021.08.06-05.29.22:208][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Config/Windows/Editor.ini]
+[2021.08.06-05.29.22:208][  0]LogInit: Computer: LAPTOP-PLU0TJAV
+[2021.08.06-05.29.22:208][  0]LogInit: User: farha
+[2021.08.06-05.29.22:209][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.06-05.29.22:209][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.06-05.29.22:209][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.08.06-05.29.22:209][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.06-05.29.22:209][  0]LogMemory: Process Physical Memory: 138.19 MB used, 138.20 MB peak
+[2021.08.06-05.29.22:209][  0]LogMemory: Process Virtual Memory: 112.50 MB used, 112.50 MB peak
+[2021.08.06-05.29.22:209][  0]LogMemory: Physical Memory: 11040.53 MB used,  5130.47 MB free, 16171.00 MB total
+[2021.08.06-05.29.22:209][  0]LogMemory: Virtual Memory: 134214160.00 MB used,  3568.18 MB free, 134217728.00 MB total
+[2021.08.06-05.29.22:279][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.06-05.29.22:367][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.06-05.29.22:369][  0]LogInit: Using OS detected language (en-US).
+[2021.08.06-05.29.22:369][  0]LogInit: Using OS detected locale (en-AU).
+[2021.08.06-05.29.22:379][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.06-05.29.22:854][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.06-05.29.22:871][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.06-05.29.22:906][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.06-05.29.22:907][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.06-05.29.23:226][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.06-05.29.23:226][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.06-05.29.23:226][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.06-05.29.23:226][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.06-05.29.23:376][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti' (Feature Level 11_0)
+[2021.08.06-05.29.23:376][  0]LogD3D11RHI:       3962/0/8085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.06-05.29.23:473][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.08.06-05.29.23:473][  0]LogD3D11RHI:       128/0/8085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.06-05.29.23:481][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.06-05.29.23:481][  0]LogD3D11RHI:       0/0/8085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.06-05.29.23:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.06-05.29.23:503][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.06-05.29.23:504][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.06-05.29.23:504][  0]LogWindows: EnumDisplayDevices:
+[2021.08.06-05.29.23:504][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.08.06-05.29.23:505][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.06-05.29.23:506][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.06-05.29.23:506][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:1)
+[2021.08.06-05.29.23:506][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.08.06-05.29.23:507][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.08.06-05.29.23:507][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2021.08.06-05.29.23:507][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.06-05.29.23:507][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2021.08.06-05.29.23:507][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.08.06-05.29.23:507][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.08.06-05.29.23:507][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.08.06-05.29.23:623][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.06-05.29.23:623][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.06-05.29.23:623][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.06-05.29.23:645][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.06-05.29.23:648][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.06-05.29.24:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.06-05.29.24:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.06-05.29.24:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.06-05.29.24:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.06-05.29.24:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.06-05.29.24:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.06-05.29.24:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.06-05.29.24:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.06-05.29.24:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.06-05.29.24:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.06-05.29.24:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.06-05.29.24:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.06-05.29.24:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.06-05.29.24:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.06-05.29.24:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.06-05.29.24:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.06-05.29.24:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.06-05.29.24:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.06-05.29.24:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.06-05.29.24:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.06-05.29.24:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.06-05.29.24:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.06-05.29.24:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.06-05.29.24:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.06-05.29.24:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.06-05.29.24:691][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.06-05.29.24:706][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.06-05.29.24:839][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.06-05.29.24:839][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Intermediate/Shaders/WorkingDirectory/22688/).
+[2021.08.06-05.29.24:839][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/98B9303B4014D480A4A2D797D71BAC35/'.
+[2021.08.06-05.29.24:839][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.06-05.29.24:839][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.06-05.29.26:110][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.06-05.29.26:245][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/farha/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.06-05.29.26:245][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.06-05.29.26:245][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.06-05.29.26:245][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.06-05.29.26:245][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.06-05.29.26:246][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.06-05.29.26:269][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.06-05.29.26:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.06-05.29.26:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.06-05.29.26:287][  0]LogDerivedDataCache: Speed tests for C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.08.06-05.29.26:287][  0]LogDerivedDataCache: Display: Performance to C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=408.83MBs, RandomWriteSpeed=70.60MBs. Assigned SpeedClass 'Local'
+[2021.08.06-05.29.26:288][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.06-05.29.26:288][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.06-05.29.26:288][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.06-05.29.26:369][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.06-05.29.26:370][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.06-05.29.26:407][  0]LogAssetRegistry: FAssetRegistry took 0.0065 seconds to start up
+[2021.08.06-05.29.26:930][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.06-05.29.26:931][  0]LogInit: Active device profile: [000002364BC0A200][000002363FCE6140 49] Windows
+[2021.08.06-05.29.26:931][  0]LogInit: Profiles: [000002364BC0A200][000002363FCE6140 49] Windows, [000002364D2C6E00][000002363FCEE2C0 49] WindowsNoEditor, [000002364BC09000][000002364B6CA440 49] WindowsServer, [000002364D2C7F00][000002364B6CE5C0 49] WindowsClient, [000002364BC0A500][000002364B6D2740 49] IOS, [000002364D2C4700][000002364CAC88C0 49] iPadAir, [000002364BC0B300][000002364CADCA40 49] iPadAir2, [000002364D156600][000002364CAEAD00 49] IPadPro, [000002364D156700][000002364CAE0D40 49] iPadAir3, [000002364D2C4E00][00000236422C8EC0 49] iPadAir4, [000002364D157F00][00000236422E7040 49] iPadMini2, [000002364D2C4300][000002364B4DD1C0 49] iPadMini3, [000002364D155400][000002364B4E1340 49] iPadMini4, [000002364D2C4C00][000002364B4E54C0 49] iPadMini5, [000002364D199F00][000002364B4E9700 49] iPhone6, [000002364D19A000][000002363FCEB740 49] iPodTouch6, [000002364D155A00][000002364B4F1980 49] iPhone7, [000002364D155900][000002364B4ED9C0 49] iPodTouch7, [000002364D19B700][000002364B4F9B40 49] iPhone5S, [000002364D155100][000002364B4FDCC0 49] iPhone6Plus, [000002364D199600][000002364B500180 49] iPhone6S, [000002364D154E00][000002364B504300 49] iPhone6SPlus, [000002364D198700][000002364B508480 49] iPhone7Plus, [000002364D154A00][000002364B50C600 49] iPhoneSE, [000002364D19AF00][000002364B510780 49] iPhone8, [000002364D157500][000002364B514900 49] iPhone8Plus, [000002364D198200][000002364B518A80 49] iPhoneX, [000002364D156900][000002364B51CC00 49] iPhoneXS, [000002364D19AA00][000002364B520D80 49] iPhoneXSMax, [000002364D157300][000002364B524F00 49] iPhoneXR, [000002364D198D00][000002364B529080 49] iPhone11, [000002364D156D00][000002364B52D200 49] iPhone11Pro, [000002364D19AD00][000002364B531380 49] iPhone11ProMax, [000002364D155C00][000002364B535500 49] iPhoneSE2, [000002364D19A800][000002364B4F5640 49] iPhone12Mini, [000002364D157D00][000002364B539780 49] iPhone12, [000002364D154800][000002364B53D8C0 49] iPhone12Pro, [000002364D154900][000002364B541A00 49] iPhone12ProMax, [000002364D198400][000002364C6F5B80 49] iPadPro105, [000002364BC09F00][000002364C6F9D00 49] iPadPro129, [000002364D199100][000002364C6FC1C0 49] iPadPro97, [000002364BC09400][000002364C700340 49] iPadPro2_129, [000002364D198300][000002364C7044C0 49] iPad5, [000002364BC09B00][000002364C708640 49] iPad6, [000002364D198A00][000002364C70C7C0 49] iPad7, [000002364BC09800][000002364C710940 49] iPad8, [000002364D198100][000002364C714AC0 49] iPadPro11, [000002364BC08800][000002364C718C40 49] iPadPro2_11, [000002364D19AC00][000002364C71CDC0 49] iPadPro3_129, [000002364BC08C00][000002364C720F40 49] iPadPro4_129, [000002364D19B000][000002364C7250C0 49] AppleTV, [000002364BC09100][000002364C729240 49] AppleTV4K, [000002364D19B600][000002364C72D3C0 49] TVOS, [000002364BC0B800][000002364C731540 49] Mac, [000002364D199B00][000002364C7356C0 49] MacClient, [000002364BC0B600][000002364C6F1800 49] MacNoEditor, [000002364D19A200][000002364C739940 49] MacServer, [000002364BC0A800][000002364C73DA80 49] Linux, [000002364D19A600][000002364C745C00 49] LinuxAArch64, [000002364BC0B400][000002364C7480C0 49] LinuxNoEditor, [000002364D198800][000002364C74C240 49] LinuxAArch64NoEditor, [000002364BC09E00][000002364C7503C0 49] LinuxClient, [000002364D19BE00][000002364C754540 49] LinuxAArch64Client, [000002364BC0AF00][000002364C7586C0 49] LinuxServer, [000002364D19B300][000002364C75C840 49] LinuxAArch64Server, [000002364BC0B700][000002364C7609C0 49] Android, [000002364D19B500][000002364C764B40 49] Android_Low, [000002364BC0B000][000002364C768CC0 49] Android_Mid, [000002364D199C00][000002364B390E40 49] Android_High, [000002364BC0A100][000002364B394FC0 49] Android_Default, [000002364D19A400][000002364B399140 49] Android_Adreno4xx, [000002364BC0A900][000002364B39D2C0 49] Android_Adreno5xx_Low, [000002364D19BC00][000002364B3A1440 49] Android_Adreno5xx, [000002364BC0B100][000002364B3A55C0 49] Android_Adreno6xx, [000002364D19B400][000002364B3A9740 49] Android_Adreno6xx_Vulkan, [000002364BC0B900][000002364C741880 49] Android_Mali_T6xx, [000002364D198C00][000002364B3AD9C0 49] Android_Mali_T7xx, [000002364BC08100][000002364B3B1B00 49] Android_Mali_T8xx, [000002364D198600][000002364B3B5C40 49] Android_Mali_G71, [000002364BC09600][000002364B3BC100 49] Android_Mali_G72, [000002364D19A900][000002364B3C0280 49] Android_Mali_G72_Vulkan, [000002364BC09500][000002364B3C4400 49] Android_Mali_G76, [000002364D198900][000002364B3C8580 49] Android_Mali_G76_Vulkan, [000002364BC09C00][000002364B3CC700 49] Android_Mali_G77, [000002364D199300][000002364B3D0880 49] Android_Mali_G77_Vulkan, [000002364D2C7100][000002364B3D4A00 49] Android_Vulkan_SM5, [000002364D156200][000002364B3D8B80 49] Android_PowerVR_G6xxx, [000002364D2C6100][000002364B3DCD00 49] Android_PowerVR_GT7xxx, [000002364D156A00][000002364B3E0E80 49] Android_PowerVR_GE8xxx, [000002364D2C5300][000002364B3E5000 49] Android_PowerVR_GM9xxx, [000002364D155B00][000002364B3E9180 49] Android_PowerVR_GM9xxx_Vulkan, [000002364D2C4900][000002364B3ED300 49] Android_TegraK1, [000002364D157100][000002364B3F1480 49] Android_Unknown_Vulkan, [000002364D2C7E00][000002364B3F5600 49] Lumin, [000002364D154C00][000002364B3F9780 49] Lumin_Desktop, [000002364D2C5900][000002364B3B98C0 49] HoloLens, 
+[2021.08.06-05.29.27:146][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.06-05.29.27:146][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.06-05.29.27:146][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.06-05.29.27:146][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.06-05.29.27:146][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.06-05.29.27:178][  0]LogNetVersion: FPSLockdownn 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 761174744)
+[2021.08.06-05.29.27:962][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.06-05.29.28:074][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.110528 seconds
+[2021.08.06-05.29.28:085][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.06-05.29.28:087][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.06-05.29.28:087][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.06-05.29.28:966][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.06-05.29.28:992][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.06-05.29.29:139][  0]SourceControl: Source control is disabled
+[2021.08.06-05.29.29:139][  0]SourceControl: Source control is disabled
+[2021.08.06-05.29.29:149][  0]SourceControl: Source control is disabled
+[2021.08.06-05.29.29:156][  0]SourceControl: Source control is disabled
+[2021.08.06-05.29.29:168][  0]SourceControl: Source control is disabled
+[2021.08.06-05.29.29:183][  0]LogUProjectInfo: Found projects:
+[2021.08.06-05.29.29:705][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.06-05.29.29:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.06-05.29.29:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.06-05.29.29:822][  0]LogCollectionManager: Loaded 0 collections in 0.002256 seconds
+[2021.08.06-05.29.29:859][  0]LogFileCache: Scanning file cache for directory 'C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Collections/' took 0.00s
+[2021.08.06-05.29.29:859][  0]LogFileCache: Scanning file cache for directory 'C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/Developers/farha/Collections/' took 0.00s
+[2021.08.06-05.29.29:859][  0]LogFileCache: Scanning file cache for directory 'C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/Collections/' took 0.00s
+[2021.08.06-05.29.29:859][  0]LogOcInput: OculusInput pre-init called
+[2021.08.06-05.29.29:873][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.06-05.29.29:873][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.06-05.29.29:921][  0]LogEngine: Initializing Engine...
+[2021.08.06-05.29.29:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.06-05.29.29:922][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.06-05.29.29:923][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.06-05.29.30:061][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.06-05.29.30:070][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.06-05.29.30:086][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.06-05.29.30:090][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.06-05.29.30:090][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-05.29.30:091][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-05.29.30:091][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-05.29.30:091][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-05.29.30:418][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 5: BackRight
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.08.06-05.29.30:419][  0]LogAudioMixer: Display: 7: SideRight
+[2021.08.06-05.29.30:657][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.08.06-05.29.30:664][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-05.29.30:666][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-05.29.30:667][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-05.29.30:668][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-05.29.30:668][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-05.29.30:668][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.06-05.29.30:675][  0]LogInit: FAudioDevice initialized.
+[2021.08.06-05.29.30:676][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-05.29.30:676][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-05.29.30:676][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.06-05.29.30:676][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.06-05.29.30:744][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/farha/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.06-05.29.30:746][  0]LogInit: Texture streaming: Enabled
+[2021.08.06-05.29.30:762][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.06-05.29.30:767][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.06-05.29.30:767][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.06-05.29.30:770][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.06-05.29.30:789][  0]LogInit: Transaction tracking system initialized
+[2021.08.06-05.29.30:808][  0]BlueprintLog: New page: Editor Load
+[2021.08.06-05.29.30:894][  0]LocalizationService: Localization service is disabled
+[2021.08.06-05.29.30:922][  0]TimingProfiler: Initialize
+[2021.08.06-05.29.30:922][  0]TimingProfiler: OnSessionChanged
+[2021.08.06-05.29.30:922][  0]LoadingProfiler: Initialize
+[2021.08.06-05.29.30:922][  0]LoadingProfiler: OnSessionChanged
+[2021.08.06-05.29.30:922][  0]NetworkingProfiler: Initialize
+[2021.08.06-05.29.30:922][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.06-05.29.30:922][  0]MemoryProfiler: Initialize
+[2021.08.06-05.29.30:922][  0]MemoryProfiler: OnSessionChanged
+[2021.08.06-05.29.31:076][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.06-05.29.31:076][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.06-05.29.31:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/' took 0.00s
+[2021.08.06-05.29.31:408][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.06-05.29.31:413][  0]SourceControl: Source control is disabled
+[2021.08.06-05.29.31:413][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.677
+[2021.08.06-05.29.31:415][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.08.06-05.29.31:415][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.06-05.29.31:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.31:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.06-05.29.31:419][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.08.06-05.29.31:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.08.06-05.29.31:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.08.06-05.29.31:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.08.06-05.29.31:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.08.06-05.29.31:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.08.06-05.29.31:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.08.06-05.29.31:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.08.06-05.29.31:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.08.06-05.29.31:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.08.06-05.29.31:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.08.06-05.29.31:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.08.06-05.29.31:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.08.06-05.29.31:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.08.06-05.29.31:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.08.06-05.29.31:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.08.06-05.29.31:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.08.06-05.29.31:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.08.06-05.29.31:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Fire01.uasset"
+[2021.08.06-05.29.31:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.08.06-05.29.31:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.08.06-05.29.31:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.08.06-05.29.31:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Light01.uasset"
+[2021.08.06-05.29.31:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.08.06-05.29.31:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Light02.uasset"
+[2021.08.06-05.29.31:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.08.06-05.29.31:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.08.06-05.29.31:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.08.06-05.29.31:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.08.06-05.29.31:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.08.06-05.29.31:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.08.06-05.29.31:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.08.06-05.29.31:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.08.06-05.29.31:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.08.06-05.29.31:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Steam01.uasset"
+[2021.08.06-05.29.31:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.08.06-05.29.31:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.08.06-05.29.31:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.08.06-05.29.31:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.08.06-05.29.31:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.08.06-05.29.31:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.08.06-05.29.31:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.08.06-05.29.31:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.08.06-05.29.31:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.08.06-05.29.31:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.08.06-05.29.31:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.08.06-05.29.31:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.08.06-05.29.31:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.08.06-05.29.31:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.08.06-05.29.31:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.08.06-05.29.31:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.08.06-05.29.31:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.08.06-05.29.31:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.08.06-05.29.31:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.08.06-05.29.31:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.08.06-05.29.31:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.08.06-05.29.31:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.08.06-05.29.31:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Maps/StarterMap.umap"
+[2021.08.06-05.29.31:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.08.06-05.29.31:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.08.06-05.29.31:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.08.06-05.29.31:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.08.06-05.29.31:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.08.06-05.29.31:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.08.06-05.29.31:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.08.06-05.29.31:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.08.06-05.29.31:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.08.06-05.29.31:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.08.06-05.29.31:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.08.06-05.29.31:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.08.06-05.29.31:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.08.06-05.29.31:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.08.06-05.29.31:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.08.06-05.29.31:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.08.06-05.29.31:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.08.06-05.29.31:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.08.06-05.29.31:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.08.06-05.29.31:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.08.06-05.29.31:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.08.06-05.29.31:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.08.06-05.29.31:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.08.06-05.29.31:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.08.06-05.29.31:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.08.06-05.29.31:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.08.06-05.29.31:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.08.06-05.29.31:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.08.06-05.29.31:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.08.06-05.29.31:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.08.06-05.29.31:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.08.06-05.29.31:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.08.06-05.29.31:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.08.06-05.29.31:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.08.06-05.29.31:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.08.06-05.29.31:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.08.06-05.29.31:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.08.06-05.29.31:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.08.06-05.29.31:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.08.06-05.29.31:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.08.06-05.29.31:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.08.06-05.29.31:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.08.06-05.29.31:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.08.06-05.29.31:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.08.06-05.29.31:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.08.06-05.29.31:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.08.06-05.29.31:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.08.06-05.29.31:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.08.06-05.29.31:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.08.06-05.29.31:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.08.06-05.29.31:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.08.06-05.29.31:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.08.06-05.29.31:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.08.06-05.29.31:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.08.06-05.29.31:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.08.06-05.29.31:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.08.06-05.29.31:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.08.06-05.29.31:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.08.06-05.29.31:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.08.06-05.29.31:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.08.06-05.29.31:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.08.06-05.29.31:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.08.06-05.29.31:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.08.06-05.29.31:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.08.06-05.29.31:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.08.06-05.29.31:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Door.uasset"
+[2021.08.06-05.29.31:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.08.06-05.29.31:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.08.06-05.29.31:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.08.06-05.29.31:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.08.06-05.29.31:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.08.06-05.29.31:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.08.06-05.29.31:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.08.06-05.29.31:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.08.06-05.29.31:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.08.06-05.29.31:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.08.06-05.29.31:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.08.06-05.29.31:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.08.06-05.29.31:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.08.06-05.29.31:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.08.06-05.29.31:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.08.06-05.29.31:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.08.06-05.29.31:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.08.06-05.29.31:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.08.06-05.29.31:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.08.06-05.29.31:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.08.06-05.29.31:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.08.06-05.29.31:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.08.06-05.29.31:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.08.06-05.29.31:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.08.06-05.29.31:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.08.06-05.29.31:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.08.06-05.29.31:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.08.06-05.29.31:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.08.06-05.29.31:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.08.06-05.29.31:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.08.06-05.29.31:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.08.06-05.29.31:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.08.06-05.29.31:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.08.06-05.29.31:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.08.06-05.29.31:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.08.06-05.29.31:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.08.06-05.29.31:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.08.06-05.29.31:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.08.06-05.29.31:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.08.06-05.29.31:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.08.06-05.29.31:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.08.06-05.29.31:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.08.06-05.29.31:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.08.06-05.29.31:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.08.06-05.29.31:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.08.06-05.29.31:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.08.06-05.29.31:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.08.06-05.29.31:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.08.06-05.29.31:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.08.06-05.29.31:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.08.06-05.29.31:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.08.06-05.29.31:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.08.06-05.29.31:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.08.06-05.29.31:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.08.06-05.29.31:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.08.06-05.29.31:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.08.06-05.29.31:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.08.06-05.29.31:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.08.06-05.29.31:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.08.06-05.29.31:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.08.06-05.29.31:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.08.06-05.29.31:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.08.06-05.29.31:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.08.06-05.29.31:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.08.06-05.29.31:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.08.06-05.29.31:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.08.06-05.29.31:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.08.06-05.29.31:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.08.06-05.29.31:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.08.06-05.29.31:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.08.06-05.29.31:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.08.06-05.29.31:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.08.06-05.29.31:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.08.06-05.29.31:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.08.06-05.29.31:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.08.06-05.29.31:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.08.06-05.29.31:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.08.06-05.29.31:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.08.06-05.29.31:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.08.06-05.29.31:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.08.06-05.29.31:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.08.06-05.29.31:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.08.06-05.29.31:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.08.06-05.29.31:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.08.06-05.29.31:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.08.06-05.29.31:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.08.06-05.29.31:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.08.06-05.29.31:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.08.06-05.29.31:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.08.06-05.29.31:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.08.06-05.29.31:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.08.06-05.29.31:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.08.06-05.29.31:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.08.06-05.29.32:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.08.06-05.29.32:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.08.06-05.29.32:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.08.06-05.29.32:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.08.06-05.29.32:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.08.06-05.29.32:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.08.06-05.29.32:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.08.06-05.29.32:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.08.06-05.29.32:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.08.06-05.29.32:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.08.06-05.29.32:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.08.06-05.29.32:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.08.06-05.29.32:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.08.06-05.29.32:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.08.06-05.29.32:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.08.06-05.29.32:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.08.06-05.29.32:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.08.06-05.29.32:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.08.06-05.29.32:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.08.06-05.29.32:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.08.06-05.29.32:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.08.06-05.29.32:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.08.06-05.29.32:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.08.06-05.29.32:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.08.06-05.29.32:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.08.06-05.29.32:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.08.06-05.29.32:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.08.06-05.29.32:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.08.06-05.29.32:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.08.06-05.29.32:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.08.06-05.29.32:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.08.06-05.29.32:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.08.06-05.29.32:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.08.06-05.29.32:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.08.06-05.29.32:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.08.06-05.29.32:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.08.06-05.29.32:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.08.06-05.29.32:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.08.06-05.29.32:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.08.06-05.29.32:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.08.06-05.29.32:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.08.06-05.29.32:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.08.06-05.29.32:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.08.06-05.29.32:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.08.06-05.29.32:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.08.06-05.29.32:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.08.06-05.29.32:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.08.06-05.29.32:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.08.06-05.29.32:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.08.06-05.29.32:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.08.06-05.29.32:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.08.06-05.29.32:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.08.06-05.29.32:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.08.06-05.29.32:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.08.06-05.29.32:898][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.08.06-05.29.33:263][  0]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Floor_400x400642C3681423CC8592FE92899C66E116F.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.08.06-05.29.33:264][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.08.06-05.29.33:265][  0]Cmd: MAP LOAD FILE="../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.06-05.29.33:265][  0]LightingResults: New page: Lighting Build
+[2021.08.06-05.29.33:266][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-05.29.33:266][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-05.29.33:266][  0]MapCheck: New page: Map Check
+[2021.08.06-05.29.33:266][  0]LightingResults: New page: Lighting Build
+[2021.08.06-05.29.33:274][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.08.06-05.29.33:479][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.08.06-05.29.33:567][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.08.06-05.29.33:568][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.06-05.29.33:575][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.06-05.29.33:587][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.08.06-05.29.33:589][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.06-05.29.33:590][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.278ms to complete.
+[2021.08.06-05.29.33:590][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.325
+[2021.08.06-05.29.33:592][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.856
+[2021.08.06-05.29.33:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-05.29.33:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-05.29.33:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-05.29.33:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-05.29.33:744][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3601 classes and 859 folders.
+[2021.08.06-05.29.33:746][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.06-05.29.33:749][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.06-05.29.33:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.06-05.29.33:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.06-05.29.33:752][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.06-05.29.33:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.06-05.29.33:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.08.06-05.29.33:753][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.06-05.29.33:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.06-05.29.33:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.08.06-05.29.33:755][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.06-05.29.33:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.06-05.29.33:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.08.06-05.29.33:755][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.06-05.29.33:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.06-05.29.33:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.08.06-05.29.33:756][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.06-05.29.33:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.06-05.29.33:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.08.06-05.29.33:757][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.06-05.29.33:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.06-05.29.33:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.08.06-05.29.33:757][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.06-05.29.33:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.06-05.29.33:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.08.06-05.29.33:758][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.06-05.29.33:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.06-05.29.33:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.08.06-05.29.33:759][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.06-05.29.33:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.06-05.29.33:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.08.06-05.29.33:759][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.06-05.29.33:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.06-05.29.33:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.08.06-05.29.33:760][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.06-05.29.33:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.06-05.29.33:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.08.06-05.29.33:761][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.06-05.29.33:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.06-05.29.33:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.08.06-05.29.33:761][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.06-05.29.33:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.06-05.29.33:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.08.06-05.29.33:762][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.06-05.29.33:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.06-05.29.33:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.08.06-05.29.33:763][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.06-05.29.33:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.06-05.29.33:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.08.06-05.29.33:763][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.06-05.29.33:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.06-05.29.33:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.08.06-05.29.33:764][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.06-05.29.33:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.06-05.29.33:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.08.06-05.29.33:765][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.06-05.29.33:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.06-05.29.33:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.08.06-05.29.33:765][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.06-05.29.33:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.06-05.29.33:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.08.06-05.29.33:766][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.06-05.29.33:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.06-05.29.33:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.08.06-05.29.33:766][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.06-05.29.33:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.06-05.29.33:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.08.06-05.29.33:767][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.06-05.29.33:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.06-05.29.33:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.08.06-05.29.33:768][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.06-05.29.33:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.06-05.29.33:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.08.06-05.29.33:768][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.06-05.29.33:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.06-05.29.33:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.08.06-05.29.33:769][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.06-05.29.33:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.06-05.29.33:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.06-05.29.33:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.08.06-05.29.33:805][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.06-05.29.33:806][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.06-05.29.33:875][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.06-05.29.33:877][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.06-05.29.33:891][  0]LogSlate: Took 0.002003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.06-05.29.34:022][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.08.06-05.29.34:143][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.06-05.29.34:241][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.08.06-05.29.34:242][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.06-05.29.34:242][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.06-05.29.34:242][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.06-05.29.34:242][  0]LogLoad: (Engine Initialization) Total time: 13.51 seconds
+[2021.08.06-05.29.34:242][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.06-05.29.34:242][  0]LogInit: First time updating LLM stats...
+[2021.08.06-05.29.34:270][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.08.06-05.29.34:270][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.08.06-05.29.34:297][  0]LogAssetRegistry: Asset discovery search completed in 7.8937 seconds
+[2021.08.06-05.29.34:298][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.08.06-05.29.34:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.06-05.35.41:505][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.06-05.35.45:642][527]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.06-05.35.45:683][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.06-05.35.45:713][527]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap8970010A4936AC1F3F2EA2B72A5F8D97.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.06-05.35.45:832][527]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap_BuiltDataC9E9CE4747C251925B839DA33188FBEA.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.06-05.35.45:845][527]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-05.35.45:846][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.06-05.35.45:846][527]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
