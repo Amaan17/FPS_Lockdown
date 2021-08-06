@@ -1079,3 +1079,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-05.29.34:297][  0]LogAssetRegistry: Asset discovery search completed in 7.8937 seconds
 [2021.08.06-05.29.34:298][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.08.06-05.29.34:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.06-05.35.41:505][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.06-05.35.45:642][527]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.06-05.35.45:683][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.06-05.35.45:713][527]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap8970010A4936AC1F3F2EA2B72A5F8D97.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.06-05.35.45:832][527]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap_BuiltDataC9E9CE4747C251925B839DA33188FBEA.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.06-05.35.45:845][527]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-05.35.45:846][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.06-05.35.45:846][527]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
