@@ -884,3 +884,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-06.36.18:596][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.06-06.36.18:650][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
 [2021.08.06-06.36.18:678][586]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.08.06-06.45.59:059][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.08.06-06.45.59:084][447]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap_Auto1EBCD473E4D76B92B2E3704898FECA55E.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.08.06-06.45.59:085][447]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.051
+[2021.08.06-06.45.59:085][447]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
