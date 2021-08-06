@@ -888,3 +888,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-06.45.59:084][447]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap_Auto1EBCD473E4D76B92B2E3704898FECA55E.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
 [2021.08.06-06.45.59:085][447]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.051
 [2021.08.06-06.45.59:085][447]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.08.06-07.10.31:036][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.08.06-07.10.31:322][431]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.06-07.10.32:207][466]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2021.08.06-07.10.37:870][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.08.06-07.10.37:911][712]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMapC95984824F5070435A48EFA691E913B2.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.06-07.10.38:080][712]LogSavePackage: Moving '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Saved/ThirdPersonExampleMap_BuiltData7FC12543454941B40DAD0D9EAF08EB48.tmp' to '../../../../../../Users/farha/Documents/GitHub/FPS_Lockdown/FPSLockdownn/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.06-07.10.38:112][712]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-07.10.38:112][712]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.06-07.10.38:113][712]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
